@@ -8,7 +8,14 @@
             <h1 class="content__about-header">Аналитический дашборд по мобильным приложениям</h1>
             <div class="content__main-item">
                 <div class="main-item__description">
-                    <p>Небольшое описание проекта. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tempus velit a felis suscipit pharetra. Vestibulum faucibus semper risus. Aenean non molestie tellus.</p>
+                   <h2 class="content__subheader">Цель:</h2>
+                    <p>разработать дашборд, для помощи коллегам с определением стратегии выхода на рынок.</p>
+                </div>
+              <h2 class="content__subheader">Задачи:</h2>
+                    <p>1. Как выглядит распределение оценок приложений?</p>
+               <p>2. Зависит ли размер приложений от категорий/жанров?</p>
+               <p>3. Зависит ли качество приложений от стоимости? (за качество принимаем рейтинг)</p>
+               <p>4. Показать среднюю цену платных приложений по категориям.</p>
                 </div>
             </div>
             <div class="content__main-item">
