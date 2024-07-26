@@ -5,7 +5,7 @@
             </div>
         </div>
         <div class="content__main">
-            <h1 class="content__about-header">Имя проекта</h1>
+            <h1 class="content__about-header">Аналитический дашборд по мобильным приложениям</h1>
             <div class="content__main-item">
                 <div class="main-item__description">
                     <p>Небольшое описание проекта. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam tempus velit a felis suscipit pharetra. Vestibulum faucibus semper risus. Aenean non molestie tellus.</p>
