@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <body>
-                <span class="content__description">Добрый день! Меня зовут Наталия. <br/> Ознакомьтесь пожалуйста с одним из моих проектов</span>
+                <span class="content__description">Добрый день! Меня зовут Наталия. <br/> Ознакомьтесь пожалуйста с одним из моих проектов https://public.tableau.com/app/profile/natalia.khusnutdinova/viz/_17121548023750/sheet4</span>
                 </nav>
             </div>
         </div>
