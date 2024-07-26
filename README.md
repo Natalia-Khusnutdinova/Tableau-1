@@ -31,7 +31,7 @@
             </div>
             <div class="content__main-item">
                 <div class="main-item__description">
-                    <p>Etiam sed lorem scelerisque, accumsan augue non, sollicitudin eros. Suspendisse non iaculis neque. Maecenas at magna quis metus finibus suscipit eu eu mi. Aenean ut orci sit amet augue congue vehicula vel a diam. Mauris enim turpis, vestibulum quis lacinia vitae, porttitor vitae magna. Ut ullamcorper mattis pellentesque. Maecenas ac justo nec augue molestie venenatis.</p>
+                    <p>Я очень рада тому, что вы уделили время моему проекту. :-) Спасибо большое за внимание!</p>
                 </div>
             </div>
             <div class="content__main-item">
