@@ -1,20 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <link rel="stylesheet" type="text/css" href="/assets/styles/styles.css">
-</head>
 <body>
-<div class="main">
-    <div class="header">
-        <a href="/">
-            <span>EN</span>
-        </a>
-        <span>|</span>
-        <a href="/ru">
-            <span>RU</span>
-        </a>
-    </div>
     <div class="content">
         <div class="content__hello">
             <img class="content__hello-img" src="/assets/img/avatar.png" alt="Avatar">
