@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 <body>
                 <span class="content__description">Добрый день! Меня зовут Наталия. <br/> Ознакомьтесь пожалуйста с одним из моих проектов</span>
-                <nav class="content__social">
-                    <a href="#link" target="_blank" class="content__social-item">
-                        <img src="/assets/img/icons/twitter.svg" alt="Проект в Tableau"
                 </nav>
             </div>
         </div>
