@@ -1,10 +1,5 @@
 <!DOCTYPE html>
 <body>
-    <div class="content">
-        <div class="content__hello">
-            <img class="content__hello-img" src="/assets/img/avatar.png" alt="Avatar">
-            <div class="content__hello-text">
-                    <span class="content__name">
                         <a href="/">Привет, я Святослав.</a>
                     </span>
                 <span class="content__description">Ознакомьтесь <br/> с одним из моих проектов</span>
