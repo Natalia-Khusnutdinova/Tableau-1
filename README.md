@@ -1,8 +1,6 @@
 <!DOCTYPE html>
 <body>
-                        <a href="/">Привет, я Святослав.</a>
-                    </span>
-                <span class="content__description">Ознакомьтесь <br/> с одним из моих проектов</span>
+                <span class="content__description">Добрый день! Меня зовут Наталия. <br/> Ознакомьтесь пожалуйста с одним из моих проектов</span>
                 <nav class="content__social">
                     <a href="#link" target="_blank" class="content__social-item">
                         <img src="/assets/img/icons/twitter.svg" alt="Twitter">
