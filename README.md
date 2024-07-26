@@ -2,7 +2,6 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Обо мне</title>
     <link rel="stylesheet" type="text/css" href="/assets/styles/styles.css">
 </head>
 <body>
