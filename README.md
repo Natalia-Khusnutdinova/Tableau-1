@@ -3,21 +3,7 @@
                 <span class="content__description">Добрый день! Меня зовут Наталия. <br/> Ознакомьтесь пожалуйста с одним из моих проектов</span>
                 <nav class="content__social">
                     <a href="#link" target="_blank" class="content__social-item">
-                        <img src="/assets/img/icons/twitter.svg" alt="Twitter">
-                        <span>Twitter</span>
-                    </a>
-                    <a href="#link" target="_blank" class="content__social-item">
-                        <img src="/assets/img/icons/facebook.svg" alt="Facebook">
-                        <span>Facebook</span>
-                    </a>
-                    <a href="#link" target="_blank" class="content__social-item">
-                        <img src="/assets/img/icons/in.svg" alt="LinkedIn">
-                        <span>LinkedIn</span>
-                    </a>
-                    <a href="#link" target="_blank" class="content__social-item">
-                        <img src="/assets/img/icons/telegram.svg" alt="Telegram">
-                        <span>Telegram</span>
-                    </a>
+                        <img src="/assets/img/icons/twitter.svg" alt="Проект в Tableau"
                 </nav>
             </div>
         </div>
